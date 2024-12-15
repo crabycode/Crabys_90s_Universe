@@ -12,6 +12,22 @@ best viewe on browser text ✅ <br>
 under construction ✅ <br>
 last updated ✅ <br>
 custom cursor ✅ <br>
+(my expectations) <br>
+custom favicon ✅ <br>
+portal from present to past ✅ <br>
+random interactive things in the website ✅ <br>
+- pokemon card packs ✅ <br>
+- music ✅ <br>
+- nav with sound ✅ <br>
+- guestbook page ✅ <br>
+- viewcounter ✅ <br>
+- custom game ✅ <br>
+personal website ✅ <br>
+
+fixing code/debugging ✅ <br>
+validating code ✅ <br>
+submitting project ✅ <br>
+
 Devlog #2 13.12.2024
 The hackathon began, and I had no idea which track to choose, but I eventually overcame this challenge and chose track 1 (Dot com boom), which required me to reconstruct a website from the present in 90s style. So, as a Pokémon enthusiast, I thought it would be cool to create their website in the 1990s. So I started with the background and fought for an hour to create something I didn't use.
 I decided to take a gym break, and while working out, I couldn't come up with any new ideas, so I switched to the second track, Now It's Personal. And when you're doing something personal, you're more motivated and have a lot of ideas, which is how my website came about. <br>
