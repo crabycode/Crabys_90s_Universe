@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: url('thor.cur'),auto;
+    text-align: center;
+    background: url("pagebg.png");
+    background-size: cover;
+}
+
+#board {
+    width: 33.75rem;
+    height: 33.75rem;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background: url("boardbg.png");
+    background-size: cover;
+    border: 3px solid white;
+    border-radius: 1.563rem;
+}
+#board div {
+    width: 11.25rem; 
+    height: 11.25rem;
+    background-image: url("bins.png");
+    background-size: cover;
+}
+#board div img {
+    width: 6.25rem;
+    height: 6.25rem;
+}

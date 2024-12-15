@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="guestbook.css">
+    <link rel="icon" type="image/x-icon" href="favicon.png">
+    <script src="guestbook.js"></script>
+    <title>Guestbook</title>
+</head>
+<body>
+    <header>
+        <h1 class="retro-big-title">Welcome to My Guestbook!</h1>
+    </header>
+    <main>
+        <section id="guestbook-form">
+            <h2>Sign Craby's Guestbook</h2>
+            <form id="guestbook" action="#" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required placeholder="Enter your name">
+                <label for="name">Email(optional):</label>
+                <input type="text" id="email" name="email" placeholder="Enter your email">
+                <label for="name">Website Link(optional):</label>
+                <input type="text" id="web" name="web" placeholder="Enter your website please">
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required placeholder="Leave your message"></textarea>
+                <div class="button-container">
+                <button type="submit" class="retro-button">Submit</button>
+                </div>
+            </form>
+        </section>
+        <section id="guestbook-messages">
+            <h2>Messages</h2>
+            <div id="messages-container">
+                <p>no one signed my guestbook sadly :(</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p class="last-updated">Last updated on 15/12/2024</p>
+    </footer>
+</body>
+</html>

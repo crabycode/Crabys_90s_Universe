@@ -1,0 +1,72 @@
+body {
+    background: url('background.gif');
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #00ff00;
+    cursor: url('normal.cur'), auto;
+    text-align: center;
+}
+
+h1, h2 {
+    text-align: center;
+    font-size: 3rem;
+    color: #ff1493;
+    margin-bottom: 1.25rem;
+}
+
+#guestbook-form {
+    text-align: center;
+    margin: 3.125rem auto;
+    padding: 0.625rem;
+    background: linear-gradient(to bottom, #0000ff, #ff00ff);
+    border-radius: 0.938rem;
+    max-width: 37.5rem;
+}
+#guestbook label {
+    font-size: 1.5rem;
+    color: #ffff00;
+    text-shadow: 2px 2px 0 #000;
+    display: block;
+    margin: 0.625rem 0 0.313rem;
+}
+#guestbook textarea{
+    height: 6.25rem;
+}
+#guestbook input, #guestbook textarea {
+    width: 90%;
+    padding: 0.625rem;
+    border-radius: 0.313rem;
+    background: #000;
+    color:#fff;
+    font-size: 1rem;
+    margin-bottom: 1.25rem;
+}
+.button-container{
+    text-align: right;
+}
+#guestbook button {
+    background-color:#FF7F50;
+    color: #000;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 3px solid #000;
+    cursor: pointer;
+}
+
+#guestbook-messages {
+    margin: 3.125rem auto;
+    padding: 1.25rem;
+    background: url('bg2.gif');
+    width: 80%;
+    max-width: 50rem;
+}
+#messages-container {
+    background: rgba(0, 0, 0, 0.8);
+    color: #00ff00;
+    padding: 0.938rem;
+    font-size: 1rem;
+}
+#messages-container p {
+    margin: 0.625rem 0;
+    border-bottom: 2px solid #ff00ff;
+    padding-bottom: 0.313rem;
+}
